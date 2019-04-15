@@ -6,7 +6,7 @@ require('./MostradorEnPesos.php');
 
 use PHPUnit\Framework\TestCase;
 
-final class BilleteraTest extends TestCase
+final class BilleteraConMostradorTest extends TestCase
 {
   /**
    * @return Billetera
