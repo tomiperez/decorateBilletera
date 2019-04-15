@@ -5,7 +5,7 @@ require('./Billetera.php');
 
 use PHPUnit\Framework\TestCase;
 
-final class AhorcadoTest extends TestCase
+final class BilleteraTest extends TestCase
 {
   /**
    * @return Billetera
